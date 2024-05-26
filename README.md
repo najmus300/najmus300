@@ -14,7 +14,7 @@
 - 📫 How to reach me **najmuspak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> My LinkedIn profile: www.linkedin.com/in/najmus-saqib-a1ab3a212
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
