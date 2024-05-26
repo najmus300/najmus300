@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Najmus Saqib</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate fullstack developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=najmus300&label=Profile%20views&color=0e75b6&style=flat" alt="najmus300" /> </p>
 
-- 🔭 I’m currently working on **Blog Application**
+- 🔭 I’m currently working on a design project at the internship.
 
-- 🌱 I’m currently learning **MERN Stack and React Native App Development**
+- 🌱 I’m currently learning **Advance Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/najmus300](https://github.com/najmus300)
 
-- 💬 Ask me about **React,Tailwind CSS and React Native**
+- 💬 Ask me about **React, Next, Tailwind CSS, and React Native**
 
 - 📫 How to reach me **najmuspak@gmail.com**
 
