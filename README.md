@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/najmus300](https://github.com/najmus300)
 
-- 💬 Ask me about **React, Next, Tailwind CSS,Nodejs,Expressjs,Mongodb and React Native**
+- 💬 Ask me about **React, Next, Tailwind CSS, Nodejs, Expressjs, Mongodb and React Native**
 
 - 📫 How to reach me **najmuspak@gmail.com**
 
