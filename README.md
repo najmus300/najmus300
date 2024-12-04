@@ -3,13 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=najmus300&label=Profile%20views&color=0e75b6&style=flat" alt="najmus300" /> </p>
 
-- 🔭 I’m currently working on a design project at the internship.
-
-- 🌱 I’m currently learning **Advance Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/najmus300](https://github.com/najmus300)
 
-- 💬 Ask me about **React, Next, Tailwind CSS, and React Native**
+- 💬 Ask me about **React, Next, Tailwind CSS,Nodejs,Expressjs,Mongodb and React Native**
 
 - 📫 How to reach me **najmuspak@gmail.com**
 
